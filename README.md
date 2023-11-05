@@ -15,4 +15,4 @@ ProxyFun - это простой Python-скрипт для парсинга п�
 
 ```shell
 pip install requests beautifulsoup4
-python ваш_скрипт.py
+python main.py
